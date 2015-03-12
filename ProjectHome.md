@@ -1,0 +1,1 @@
+An implementation of a JSF View Declaration Language that allows pages or complete JSF applications to be authored in pure Java, without the need for any XML or other declarative markup (like e.g. Facelets).
